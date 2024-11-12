@@ -17,31 +17,31 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
+- title: 동국대학교 WISE캠퍼스
   title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
-  tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+  date: 2015.03-2019.02 졸업
+  subtitle: 한국음악학과
+  # tags:
+  #   - tag: React
+  #   - tag: Javascript
+  #   - tag: Ruby
+  #   - tag: Rails
   timeline-side: right
 
-- title: Google
+- title: 상명대학교 일반대학원
   title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+  date: 2019.03-2022.02 수료 후 2025.02 졸업예정
+  subtitle: 뉴미디어음악학과/컴퓨터비전을 활용한 시각장애인 악기 교육:YOLOv8s 모델을 중심으로(논문)
+  # tags:
+  #   - tag: Flutter
+  #   - tag: Dart
+  #   - tag: Keycloak
   timeline-side: right
 
-- title: Super University
+- title: Intel AI For Future Workforce
   title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+  date: 2024.04 - 2024.09 (KDT 6개월, 930시간)
+  subtitle: 데이터분석, ML/DL/NLP (Tensorflow,Pytorch,keras,sckitlearn etc), WEB/APP (html,css,js,JAVA,Android Studio,Django), CS, DB(MYSQL,ORACLE)
   timeline-side: left
 
 - title: Facebook

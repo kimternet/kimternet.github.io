@@ -2,25 +2,26 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Neumorphism
+title: 김형운 포트폴리오
 # description: This will be meta HTML tag content. This can be ignored.
-description: Personal website powered by Jekyll
+description: 신입 AI 개발자 김형운의 포트폴리오 사이트입니다.
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: ""
 url: "https://kimhw.github.io"
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Neumorphism
+username: 김형운
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text: "머신러닝과 Vision/음성 관련 AI 기술에 관심이 많습니다."
+
 # email: Your E-Mail address for the email button.
-email: email@example.com
+email: ksanzi@naver.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: longpdo
+github_username: kimternet
 codepen_username: exampleUser
 dev_username: exampleUser
 linkedin_username: exampleUser
