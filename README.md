@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Neumorphism <!-- omit in toc -->
 
 > Neumorphism designed Jekyll theme for personal websites, portfolios and resumes.
@@ -208,3 +209,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 [product-screenshot]: https://raw.githubusercontent.com/longpdo/neumorphism/master/docs/screenshot.gif
 [github-repo-info]: https://raw.githubusercontent.com/longpdo/neumorphism/master/docs/github-repo-info.png
+=======
+# kimternet.github.io
+>>>>>>> cff84749642c642ab5524fcd55ab3b1ebdad166f
