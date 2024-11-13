@@ -18,7 +18,7 @@
 #   timeline-side: right
 
 - title: 동국대학교 WISE캠퍼스
-  title-url: https://example.com/
+  title-url: https://web.dongguk.ac.kr/main
   date: 2015.03-2019.02 졸업
   subtitle: 한국음악학과
   # tags:
@@ -29,8 +29,8 @@
   timeline-side: right
 
 - title: 상명대학교 일반대학원
-  title-url: https://example.com/
-  date: 2019.03-2022.02 수료 후 2025.02 졸업예정
+  title-url: https://grad.smu.ac.kr/grad/index.do
+  date: 2019.03-2025.02 졸업 예정
   subtitle: 뉴미디어음악학과/컴퓨터비전을 활용한 시각장애인 악기 교육:YOLOv8s 모델을 중심으로(논문)
   # tags:
   #   - tag: Flutter
@@ -38,20 +38,20 @@
   #   - tag: Keycloak
   timeline-side: right
 
-- title: Intel AI For Future Workforce
-  title-url: https://example.com/
-  date: 2024.04 - 2024.09 (KDT 6개월, 930시간)
-  subtitle: 데이터분석, ML/DL/NLP (Tensorflow,Pytorch,keras,sckitlearn etc), WEB/APP (html,css,js,JAVA,Android Studio,Django), CS, DB(MYSQL,ORACLE)
+- title: Intel AI For Future Workforce(KDT)
+  title-url: https://drive.google.com/file/d/15A_opBOzQ-r7i_nwjdj1UF3o06rYuLqX/view?usp=drive_link
+  date: 2024.04 - 2024.09 (930h)
+  subtitle: 데이터분석, ML/DL/NLP (Tensorflow,Pytorch,keras,sckitlearn etc), WEB/APP (html,css,js,JAVA,Android Studio,Django), CS, DB(MYSQL,ORACLE,JDBC)
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: 2024 AI 무인이동체산업엑스포 해커톤 대상
+  title-url: https://drive.google.com/file/d/1CeXNQJ118H9OY0nQKboOLiSTSUVaUjo4/view?usp=drive_link
+  date: 2024-07.01~18(2w)
+  subtitle: 팀원:6명/ "UAV 연계형 AI 응급 대응 시스템" 프로젝트로 전국 성인부 대상 수상
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Tensorflow
+    - tag: Python
+    - tag: LSTM 생체 데이터 분석 AI 모델 구현 담당
   timeline-side: right
 
 - title: Super University
