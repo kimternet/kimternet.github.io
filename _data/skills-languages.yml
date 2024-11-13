@@ -8,25 +8,25 @@
 # - name: TypeScript
 #   weight: 5
 
-- name: Python
+- name: Python,
   weight: 4
 
-- name: JS
+- name: JavaScript,
   weight: 2
 
-- name: JAVA
+- name: JAVA,
   weight: 4
 
-- name: CSS
-  weight: 3
-
-- name: HTML
-  weight: 3
-
-- name: C++
+- name: CSS,
   weight: 2
 
-- name: Dart
+- name: HTML,
+  weight: 2
+
+- name: C++,
+  weight: 3
+
+- name: Dart,
   weight: 2
 
 # - name: Swift
