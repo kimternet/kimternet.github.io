@@ -8,8 +8,12 @@
         </div>
         <p class="project-desc">{{project.descr}}</p>
         {% if project.demo %}
-          <a class="highlight-link" href="{{project.demo}}" target="_blank" rel="noreferrer">
-            Demo
+          <a class="highlight-link" href="{{project.demo}}" target="_blank" rel="noreferrer">          
+            Video
+        {% endif %}
+        {% if project.demo %}
+            <a class="highlight-link" href="{{project.ppt}}" target="_blank" rel="noreferrer">
+            PPT
           </a>
         {% endif %}
         {% if project.tags %}
