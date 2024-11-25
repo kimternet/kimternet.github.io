@@ -17,6 +17,7 @@
   descr: "YOLOv8s 모델을 활용한 시각장애인 AI 악기 교육"
   demo: https://drive.google.com/file/d/1Sxd2A_agDa55q1tcveLcchVf_hDj8jhL/view?usp=drive_link
   ppt: https://political-pigment-034.notion.site/AI-ab605f99278f4dc084cd69818b3297b3?pvs=4
+  github:
   tags:
     - tag: Python
     - tag: PyTorch
@@ -27,6 +28,7 @@
   descr: "LSTM 모델을 활용해 생체 신호 예측 및 중증도 판단 모델 구현 담당"
   demo: https://political-pigment-034.notion.site/LSTM-X-675401c56c854ecbbadc825c1ef3b4a3
   ppt: https://political-pigment-034.notion.site/LSTM-X-675401c56c854ecbbadc825c1ef3b4a3
+  github:
   tags:
     - tag: Python
     - tag: Tensorflow
@@ -37,6 +39,7 @@
   descr: "생성형 AI활용 프로젝트, Flutter로 앱 구현, GPT API 활용, HUGGING FACE로 인증 모델, 게임 구현 담당"
   demo: https://drive.google.com/file/d/1zgctAMIHmZjegmCBuxo_n3gcW499Cane/view?usp=drive_link
   ppt: https://political-pigment-034.notion.site/flutter-androidstudio-6f388ed7e76e482fb681ef5e1f3cd178?pvs=4
+  github: 
   tags:
     - tag: Flutter
     - tag: Dart

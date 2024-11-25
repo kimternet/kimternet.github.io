@@ -12,10 +12,16 @@
             Video
         {% endif %}
         {% if project.demo %}
-            <a class="highlight-link" href="{{project.ppt}}" target="_blank" rel="noreferrer">
+          <a class="highlight-link" href="{{project.ppt}}" target="_blank" rel="noreferrer">
             PPT
           </a>
         {% endif %}
+        {% if project.demo %}
+          <a class="highlight-link" href="{{project.github}}" target="_blank" rel="noreferrer">
+            Github
+          </a>
+        {% endif %}
+
         {% if project.tags %}
           <div class="tag-wrapper">
             {% for tag in project.tags %}
