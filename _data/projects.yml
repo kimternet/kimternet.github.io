@@ -17,7 +17,7 @@
   descr: "YOLOv8s 모델을 활용한 시각장애인 AI 악기 교육"
   demo: https://drive.google.com/file/d/1Sxd2A_agDa55q1tcveLcchVf_hDj8jhL/view?usp=drive_link
   ppt: https://political-pigment-034.notion.site/AI-ab605f99278f4dc084cd69818b3297b3?pvs=4
-  github:
+  github: https://github.com/kimternet/portfolio/tree/main/Vision%20YOLO
   tags:
     - tag: Python
     - tag: PyTorch
@@ -27,8 +27,8 @@
 - name: LSTM 생체데이터 예측 AI 모델
   descr: "LSTM 모델을 활용해 생체 신호 예측 및 중증도 판단 모델 구현 담당"
   demo: https://political-pigment-034.notion.site/LSTM-X-675401c56c854ecbbadc825c1ef3b4a3
-  ppt: https://political-pigment-034.notion.site/LSTM-X-675401c56c854ecbbadc825c1ef3b4a3
-  github:
+  ppt: https://drive.google.com/file/d/1uWCorpAxU-gQiaD7XcMutzDPzlDM1hyk/view?usp=drive_link
+  github: https://github.com/kimternet/portfolio/tree/main/vital%20AI
   tags:
     - tag: Python
     - tag: Tensorflow
@@ -47,9 +47,33 @@
     - tag: GPT API
     - tag: Hugging Face
 
+- name: 실시간 영어 Tutor(APP)
+  descr: "일상에서 녹음 기능 활용하여 영어 학습하기 / Flutter, GPT API활용 앱 개발 "
+  demo: https://drive.google.com/file/d/1sRq2VjXOopbgJh2GMVhiEMN9ne-e4nzt/view?usp=drive_link
+  ppt: https://political-pigment-034.notion.site/flutter-androidstudio-6f388ed7e76e482fb681ef5e1f3cd178?pvs=4
+  github: https://github.com/kimternet/portfolio/tree/main/English%20tutor
+  tags:
+    - tag: Flutter
+    - tag: Dart
+    - tag: GPT API
+    - tag: FastAPI
+
+- name: LLM모델을 활용한 요약 ChatBot
+  descr: "Rag, RangChain, oLLaMA모델 "
+  demo: https://drive.google.com/file/d/11PiTTPEfIcayRo5igcOWotKybyoxJ5f0/view?usp=drive_link
+  ppt: https://political-pigment-034.notion.site/flutter-androidstudio-6f388ed7e76e482fb681ef5e1f3cd178?pvs=4
+  github: https://github.com/kimternet/portfolio/tree/main/LLM
+  tags:
+    - tag: Python, HTML, CSS, JS
+    - tag: RangChain
+    - tag: Rag
+    - tag: Flask
+
 - name: F5-TTS,E2-TTS를 활용한 음성 합성 TTS
   descr: "해외 논문 오픈소스로 구현한 음성 합성"
-  demo:
+  demo: https://drive.google.com/file/d/1zgctAMIHmZjegmCBuxo_n3gcW499Cane/view?usp=drive_link
+  ppt: https://political-pigment-034.notion.site/flutter-androidstudio-6f388ed7e76e482fb681ef5e1f3cd178?pvs=4
+  github: https://github.com/kimternet/portfolio/tree/main/f5_tts_portfolio
   tags:
-    - tag: 
+    - tag: Python
     - tag: 
