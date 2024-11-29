@@ -26,7 +26,7 @@
 
 - name: ECG 데이터를 활용한 생체 신호 예측 AI 모델
   descr: "LSTM, CNN 모델 구현 및 경량화 담당"
-  ppt: https://drive.google.com/file/d/1frluD81Uj0wlHreqMfcstDdUfaho7KcU/view?usp=drive_link
+  ppt: https://drive.google.com/file/d/17YLaEbXVQeYEPlgneZemKdao3RVxdj2I/view?usp=drive_link
   github: https://github.com/kimternet/portfolio/tree/main/ECG_PROJECT
   tags:
     - tag: Python, HTML, CSS, JS, Flask
