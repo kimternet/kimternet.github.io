@@ -46,8 +46,8 @@
     - tag: GPT API
     - tag: Hugging Face
 
-- name: 실시간 영어 Tutor(APP)
-  descr: "일상에서 녹음 기능 활용하여 영어 학습하기 / Flutter, GPT API활용 앱 개발 "
+- name: 실시간 AI와 함께하는 영어 Tutor(APP)
+  descr: "일상에서 녹음 기능 활용하여 AI와영어 학습하기 / Flutter, GPT API활용 앱 개발 "
   demo: https://drive.google.com/file/d/1sRq2VjXOopbgJh2GMVhiEMN9ne-e4nzt/view?usp=drive_link
   ppt: 
   github: https://github.com/kimternet
@@ -58,7 +58,7 @@
     - tag: FastAPI
 
 - name: LLM모델을 활용한 요약 ChatBot
-  descr: "Rag, RangChain, oLLaMA모델 "
+  descr: "Rag, RangChain, oLLaMA모델 활용한 요약 ChatBot 구현"
   demo: https://drive.google.com/file/d/11PiTTPEfIcayRo5igcOWotKybyoxJ5f0/view?usp=drive_link
   ppt: 
   github: https://github.com/kimternet
