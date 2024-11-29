@@ -25,7 +25,7 @@
     - tag: ML, DL
 
 - name: ECG 데이터를 활용한 심정지 환자 예측 AI 모델
-  descr: "LSTM, CNN 모델 구현 및 경량화 담당"
+  descr: "LSTM, CNN 모델 구현 및 경량화 담당/ 2024 무인이동체산업엑스포 해커톤 대상 수상"
   ppt: https://drive.google.com/file/d/17YLaEbXVQeYEPlgneZemKdao3RVxdj2I/view?usp=drive_link
   github: https://github.com/kimternet/portfolio/tree/main/ECG_PROJECT
   tags:
