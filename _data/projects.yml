@@ -26,9 +26,8 @@
 
 - name: LSTM 생체데이터 예측 AI 모델
   descr: "LSTM 모델을 활용해 생체 신호 예측 및 중증도 판단 모델 구현 담당"
-  demo: https://political-pigment-034.notion.site/LSTM-X-675401c56c854ecbbadc825c1ef3b4a3
-  ppt: https://drive.google.com/file/d/1uWCorpAxU-gQiaD7XcMutzDPzlDM1hyk/view?usp=drive_link
-  github: https://github.com/kimternet/portfolio/tree/main/vital%20AI
+  PPT: https://drive.google.com/file/d/1frluD81Uj0wlHreqMfcstDdUfaho7KcU/view?usp=drive_link
+  github: https://github.com/kimternet/portfolio/tree/main/ECG_PROJECT
   tags:
     - tag: Python
     - tag: Tensorflow
