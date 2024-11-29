@@ -37,8 +37,8 @@
 - name: 생성형AI를 활용한 탄소 중립 프로젝트(APP)
   descr: "생성형 AI활용 프로젝트, Flutter로 앱 구현, GPT API 활용, HUGGING FACE로 인증 모델, 게임 구현 담당"
   demo: https://drive.google.com/file/d/1zgctAMIHmZjegmCBuxo_n3gcW499Cane/view?usp=drive_link
-  ppt: https://political-pigment-034.notion.site/flutter-androidstudio-6f388ed7e76e482fb681ef5e1f3cd178?pvs=4
-  github: 
+  ppt: 
+  github: https://github.com/kimternet
   tags:
     - tag: Flutter
     - tag: Dart
@@ -49,8 +49,8 @@
 - name: 실시간 영어 Tutor(APP)
   descr: "일상에서 녹음 기능 활용하여 영어 학습하기 / Flutter, GPT API활용 앱 개발 "
   demo: https://drive.google.com/file/d/1sRq2VjXOopbgJh2GMVhiEMN9ne-e4nzt/view?usp=drive_link
-  ppt: https://political-pigment-034.notion.site/flutter-androidstudio-6f388ed7e76e482fb681ef5e1f3cd178?pvs=4
-  github: https://github.com/kimternet/portfolio/tree/main/English%20tutor
+  ppt: 
+  github: https://github.com/kimternet
   tags:
     - tag: Flutter
     - tag: Dart
@@ -60,8 +60,8 @@
 - name: LLM모델을 활용한 요약 ChatBot
   descr: "Rag, RangChain, oLLaMA모델 "
   demo: https://drive.google.com/file/d/11PiTTPEfIcayRo5igcOWotKybyoxJ5f0/view?usp=drive_link
-  ppt: https://political-pigment-034.notion.site/flutter-androidstudio-6f388ed7e76e482fb681ef5e1f3cd178?pvs=4
-  github: https://github.com/kimternet/portfolio/tree/main/LLM
+  ppt: 
+  github: https://github.com/kimternet
   tags:
     - tag: Python, HTML, CSS, JS
     - tag: RangChain
@@ -70,9 +70,9 @@
 
 - name: F5-TTS,E2-TTS를 활용한 음성 합성 TTS
   descr: "해외 논문 오픈소스로 구현한 음성 합성"
-  demo: https://drive.google.com/file/d/1zgctAMIHmZjegmCBuxo_n3gcW499Cane/view?usp=drive_link
-  ppt: https://political-pigment-034.notion.site/flutter-androidstudio-6f388ed7e76e482fb681ef5e1f3cd178?pvs=4
-  github: https://github.com/kimternet/portfolio/tree/main/f5_tts_portfolio
+  demo:
+  ppt: 
+  github: https://github.com/kimternet
   tags:
     - tag: Python
     - tag: 
