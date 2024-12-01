@@ -16,8 +16,8 @@
 - name: Computer Vision
   descr: "YOLOv8s 모델을 활용한 시각장애인 AI 악기 교육"
   demo: https://drive.google.com/file/d/1Sxd2A_agDa55q1tcveLcchVf_hDj8jhL/view?usp=drive_link
-  ppt: https://political-pigment-034.notion.site/AI-ab605f99278f4dc084cd69818b3297b3?pvs=4
-  github: https://github.com/kimternet/portfolio/tree/main/Vision%20YOLO
+  ppt: https://drive.google.com/file/d/1F82Ng6R5o4OgNteGLK5bvk6tyD049Icw/view?usp=drive_link
+  github: https://github.com/kimternet/portfolio/tree/main/Vision
   tags:
     - tag: Python
     - tag: PyTorch
