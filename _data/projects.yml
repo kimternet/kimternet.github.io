@@ -60,13 +60,13 @@
 - name: LLM모델을 활용한 요약 ChatBot
   descr: "Rag, RangChain, oLLaMA모델 활용한 요약 ChatBot 구현"
   demo: https://drive.google.com/file/d/11PiTTPEfIcayRo5igcOWotKybyoxJ5f0/view?usp=drive_link
-  ppt: 
-  github: https://github.com/kimternet
+  ppt: https://drive.google.com/file/d/1fer4K5_HXNTHCMnhQCrZN1wfInFbhDXe/view?usp=drive_link
+  github: https://github.com/kimternet/portfolio/tree/main/RAG_RangChain_LLM
   tags:
-    - tag: Python, HTML, CSS, JS
+    - tag: Python, HTML, CSS, JS, Flask
     - tag: RangChain
     - tag: Rag
-    - tag: Flask
+    - tag: Hugging Face
 
 - name: F5-TTS,E2-TTS를 활용한 음성 합성 TTS
   descr: "해외 논문 오픈소스로 구현한 음성 합성"
