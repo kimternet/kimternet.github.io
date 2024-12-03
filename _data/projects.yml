@@ -71,7 +71,7 @@
 - name: F5-TTS,E2-TTS를 활용한 음성 합성 TTS
   descr: "해외 논문 오픈소스로 구현한 음성 합성"
   demo: https://drive.google.com/file/d/13paff5sXcUW_-fVxXaV-7eA_ue7XMVyJ/view?usp=drive_link
-  ppt: https://drive.google.com/file/d/1fflgb7QzDzC5qdcnYfgnoK8-hidC9Oz9/view?usp=drive_link
+  ppt: https://drive.google.com/file/d/1fflgb7QzDzC5qdcnYfgnoK8-hidC9Oz9/view?usp=sharing
   github: https://github.com/kimternet/portfolio/tree/main/F5-TTS-main
   tags:
     - tag: Python
